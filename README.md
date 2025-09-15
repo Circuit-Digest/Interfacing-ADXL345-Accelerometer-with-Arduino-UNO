@@ -1,0 +1,1 @@
+# Interfacing-ADXL345-Accelerometer-with-Arduino-UNO
